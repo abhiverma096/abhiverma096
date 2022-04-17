@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek Verma
-- 👀 I’m interested in Cloud_Architect
-- 🌱 I’m currently learning Terraform
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Chef
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ab.abhishekverma096@outlook.com
 
