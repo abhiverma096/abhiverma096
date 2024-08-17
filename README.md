@@ -19,9 +19,9 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx anmol
+npx hello-abhishek
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+**👆 This command line tool can be found at [npx hello-abhishek](https://github.com/abhiverma001/introduction-npm-package)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
