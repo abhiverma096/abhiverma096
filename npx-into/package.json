@@ -1,6 +1,6 @@
 {
   "name": "npx-into",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "bin": {
     "hello-abhishek": "index.js"
-  },    
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
