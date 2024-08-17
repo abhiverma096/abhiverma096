@@ -30,10 +30,11 @@ const abhiverma001 = {
     pronouns: "He" | "Him",,
     askMeAbout: ["DevOps", "tech", "app dev", "photography"],
     technologies: {
-        devOps: ["AWS", "Kubernetes", "Docker🐳", "Terrform & Terragrunt" , "Bash Script" "" "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "dynamo, redshift"],
+        devOps: ["AWS", "Kubernetes", "Docker🐳", "Terrform & Terragrunt", "Bash-Scripting", "CI-CD", "GitHub-Action", "Jenkins", "Spinnaker", "Datadog/New-Relic", "CloudFlare/Route53", "Nginx"],
+        databases: ["mongo", "MySql", "dynamo", "redshift"],
+        operating-systems: ["Windows", "Linux"],
     },
-    currentFocus: "No Focus point at this time",
+    currentFocus: "Exploring kubernetes componetes in dept",
     funFact: "There are two ways to write error-free terraform code; only the third one works"
 };
 ```
